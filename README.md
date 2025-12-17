@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/shabakinc-Worksapace/.github/blob/main/1707640661620.jpg" alt="Shabak Consultants Logo" width="140"/>
 </p>
-# Shabak Consultants Inc.
+## Shabak Consultants Inc. ##
 
 **Driving Digital Excellence: Advanced Automation, Software Engineering, & Enterprise Architecture Solutions**
 
